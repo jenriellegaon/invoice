@@ -1,0 +1,35 @@
+/node_modules
+/invoice/node_modules
+/invoice/hfc-key-store
+/balance-transfer
+/basic-network
+/chaincode-docker-devmode
+/fabcar
+/chaincode/abac
+/chaincode/chaincode_example02
+/chaincode/fabcar
+/chaincode/hyperledger
+/chaincode/marbles02
+/chaincode/marbles02_private
+/chaincode/sacc
+/first-network
+/commercial-paper
+/high-throughput
+/interest_rate_swaps
+/scripts
+Jenkinsfile
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+MAINTAINERS.md
+LICENSE
+# Emacs backup files
+*~
+*#
+.#*
+# Vim file artifacts
+.*.sw*
+# installed platform-specific binaries
+/bin
+/config
+.DS_Store
+.project
